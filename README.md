@@ -34,5 +34,11 @@ Dashboard and visualization practice.
 ### Task 4
 Excel reporting and analysis task.
 
+### Task 5
+worksheet and Formatting
+
+### Task 6
+Spreadsheet and Conditional Formatting
+
 ## Author
 Navya R Nair
